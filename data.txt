@@ -1,7 +1,78 @@
-Although the earliest machine learning model was introduced in the 1950s when Arthur Samuel invented a program that calculated the winning chance in checkers for each side, the history of machine learning roots back to decades of human desire and effort to study human cognitive processes.[13] In 1949, Canadian psychologist Donald Hebb published the book The Organization of Behavior, in which he introduced a theoretical neural structure formed by certain interactions among nerve cells.[14] Hebb's model of neurons interacting with one another set a groundwork for how AIs and machine learning algorithms work under nodes, or artificial neurons used by computers to communicate data.[13] Other researchers who have studied human cognitive systems contributed to the modern machine learning technologies as well, including logician Walter Pitts and Warren McCulloch, who proposed the early mathematical models of neural networks to come up with algorithms that mirror human thought processes.[13]
-
-By the early 1960s an experimental "learning machine" with punched tape memory, called Cybertron, had been developed by Raytheon Company to analyze sonar signals, electrocardiograms, and speech patterns using rudimentary reinforcement learning. It was repetitively "trained" by a human operator/teacher to recognize patterns and equipped with a "goof" button to cause it to re-evaluate incorrect decisions.[15] A representative book on research into machine learning during the 1960s was Nilsson's book on Learning Machines, dealing mostly with machine learning for pattern classification.[16] Interest related to pattern recognition continued into the 1970s, as described by Duda and Hart in 1973.[17] In 1981 a report was given on using teaching strategies so that an artificial neural network learns to recognize 40 characters (26 letters, 10 digits, and 4 special symbols) from a computer terminal.[18]
-
-Tom M. Mitchell provided a widely quoted, more formal definition of the algorithms studied in the machine learning field: "A computer program is said to learn from experience E with respect to some class of tasks T and performance measure P if its performance at tasks in T, as measured by P, improves with experience E."[19] This definition of the tasks in which machine learning is concerned offers a fundamentally operational definition rather than defining the field in cognitive terms. This follows Alan Turing's proposal in his paper "Computing Machinery and Intelligence", in which the question "Can machines think?" is replaced with the question "Can machines do what we (as thinking entities) can do?".[20]
-
-Modern-day machine learning has two objectives. One is to classify data based on models which have been developed; the other purpose is to make predictions for future outcomes based on these models. A hypothetical algorithm specific to classifying data may use computer vision of moles coupled with supervised learning in order to train it to classify the cancerous moles. A machine learning algorithm for stock trading may inform the trader of future potential predictions.[21]
+As part of our Business Model Explainer series, this post highlights one of the best
+monetization strategies for someone who is just getting started online: the AdSense
+Business Model.
+Though this approach may seem fairly limited at first, AdSense can be scaled all the way up,
+with the potential to earn you tens of thousands of dollars a month once you understand
+what you are doing. By the end of this article, you will fully understand what Google AdSense
+is, how it works, and if it is the right way for you to make money online.
+What is Google AdSense?
+Google AdSense is an ad network that allows you to place ads on your website, and profit
+when people click on the ads. The program can use keywords and other data to place ads
+relevant to the website content. The ads themselves are sourced from the advertisers using
+Google AdWords and their Display Network.
+When you search for something on Google, there are usually two, maybe four paid ads in
+the search at the top and at the bottom. These ads are known as AdWords.
+AdSense is the same thing, only instead of the ads appearing on the search engine page,
+they appear on an actual website. Usually they will be in blocks of text, but they can
+sometimes appear as pictures.
+Here are a couple of examples of AdSense ads:
+As you can see, AdSense ads are usually on the sidebar, or at the top of the website.
+They can also appear within the actual content, and including ads in this way is one of the
+many means by which people can split test their website to get the best earnings.
+If you are unfamiliar with what split testing is, it is just testing something new against what
+was on the website before to see if it will make more money. An example of this might be
+split testing an AdSense placement within the content of the site, and a placement on the
+right side of the site.
+How Do You Earn Money with Google AdSense?
+When people come to a website and click on an ad, Google earns money from the ad
+placement, and then pays the website owner a percentage of what is earned. The people
+creating these ads are marketers using Google AdWords, who have decided to expand their
+reach beyond just Google search and into what is called the Google Display Network (GDN).
+The GDN is just a network of websites where the publishers have decided to monetize their
+sites using Google AdSense. Google reads their websites, finds out what they are about, and
+then targets website visitors with relevant ads, which come from the marketers who are using
+AdWords to associate their ads with certain keywords.
+How you earn money goes like this:
+1. Traffic to website
+2. Traffic clicks on Google ad
+3. Google charges the AdWord advertiser
+4. Google splits what they charge the advertiser with you
+This is why Google AdSense can be very lucrative for someone just starting out. You don’t need
+to target your ads to your audience, because Google will do that work for you.
+Every AdWord ad works through what is called Cost-Per-Click (CPC); this is exactly what it
+sounds like. If the CPC is $5, it means that every time someone clicks on the ad, the advertiser
+pays Google around $5. CPC varies based on the popularity of certain keywords and other
+factors.
+Out of that $5, Google takes a portion, and passes the rest on to the website owner who
+allowed Google to put ads on the website.
+Because of this, many website owners who want to increase their revenue with Google
+AdSense will target words with higher CPCs so they can get a higher amount from the split
+between them and Google.
+Examples of AdSense Sites:
+Here are a few actual AdSense sites which you can explore, and can get a feel for how AdSense
+works. Some of these sites will not look like AdSense sites to you at first. This is because many
+only show images, instead of the traditional block text that is associated with AdSense.
+Cydia Guide — The Small AdSense Niche Site
+This is an example of how a small niche site looks when monetized via AdSense. There are
+millions of sites out there like this, and most of them talk about one very specific subject. In
+this case it is Cydia, a popular jailbreaking software for smartphones.
+Sites like this can often start making money relatively quickly, but they usually cannot expand
+much beyond the $100-700 a month range.
+The reason they can’t continue to grow is that most niche sites are set up with too much
+specificity. This website is about one thing, and one thing only — Cydia. This kind of specificity
+is great for a niche site. But this site would have trouble growing into an authority about
+different iPhone software because its very name, “Cydia Guide,” is a specific and well-known
+hack for smartphones.
+Most niche sites are subject to this problem, and it’s one reason why they never become
+bigger authority sites.
+Mashable — The Authority Site Model
+Mashable is a huge blog, which talks mainly about tech news. They get millions of visitors a
+month and have developed their own bonafide publishing company, which people actually
+seek to be featured on.
+That being said, Mashable is a huge AdSense earner. You’ll find AdSense ads throughout the
+website, bringing in millions of dollars in revenue for the tech blog.
+Authority blogs, like Mashable, usually cover a broader range of topics than niche sites. And
+because of this, their earning potential is a lot greater than that of niche sites.
+The chief drawback to the authority site is that they can often take longer to build. Plus, your
+content needs to be better and more valuable, which can lead to a need for higher investment
+in skilled writers if you decide not to write the content yourself.
