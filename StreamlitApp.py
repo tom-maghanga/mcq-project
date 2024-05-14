@@ -14,12 +14,12 @@ with open('Response.json', 'r') as file:
     RESPONSE_JSON = json.load(file)
 
 #creating a title for the app
-st.title("MCQs Creator Application with LangChain 🦜⛓️")
+st.title("MCQs Creator 🦜⛓️")
 
 #Create a form using st.form
 with st.form("user_inputs"):
     #File Upload
-    uploaded_file=st.file_uploader("Uplaod a PDF or txt file")
+    uploaded_file=st.file_uploader("Upload a txt file")
 
     #Input Fields
     mcq_count=st.number_input("No. of MCQs", min_value=3, max_value=50)
